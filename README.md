@@ -2,15 +2,15 @@
 <h3 align="center">PHP Developer</h3>
 
 ```text
-██████╗ ██╗  ██╗██████╗ 
+██████╗ ██╗  ██╗██████╗
 ██╔══██╗██║  ██║██╔══██╗
 ██████╔╝███████║██████╔╝
-██╔═══╝ ██╔══██║██╔═══╝ 
-██║     ██║  ██║██║     
-╚═╝     ╚═╝  ╚═╝╚═╝     
+██╔═══╝ ██╔══██║██╔═══╝
+██║     ██║  ██║██║
+╚═╝     ╚═╝  ╚═╝╚═╝
 ```
 
-- 🔭 Currently working with Laravel 12
+- 🔭 Currently working with Laravel 10, 11 and 12
 - 🚀 Backend & API Specialist
 - 💡 Clean Architecture Enthusiast
 
