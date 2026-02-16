@@ -22,7 +22,7 @@ in order to give you basic knowledge (illutration) just in case you don't know.
 I hope you enjoy the process and learning.
 
 There many directories in this learning, every directory is related as the each of topic.
-To run this code in terminal (CLI), you only need to php [folder_name] [file_name] for example:
-php autoloader/index.php, and then the code will run.
+To run this code in terminal (CLI), you only need to run <b>php [folder_name] [file_name]</b>, for example:
+<b>php autoloader/index.php</b>, and then the code will run.
 
 🚀🚀🚀 Happy code 🚀🚀🚀
