@@ -21,4 +21,8 @@ In this code, just covers the important part or most part that covers in laravel
 in order to give you basic knowledge (illutration) just in case you don't know.
 I hope you enjoy the process and learning.
 
+There many directories in this learning, every directory is related as the each of topic.
+To run this code in terminal (CLI), you only need to php [folder_name] [file_name] for example:
+php autoloader/index.php, and then the code will run.
+
 🚀🚀🚀 Happy code 🚀🚀🚀
